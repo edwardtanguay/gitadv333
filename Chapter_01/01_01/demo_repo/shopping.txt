@@ -1,5 +1,5 @@
 Shopping List
-[_] accomplished
+[_] accomplished (DON'T KEEP)
 
 apples
 bananas
