@@ -3,3 +3,4 @@ another file
 added as user1
 and this added by the original testing user
 USER ONE HERE AGAIN
+testing on line 6
