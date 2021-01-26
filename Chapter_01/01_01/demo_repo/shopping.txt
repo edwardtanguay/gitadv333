@@ -4,7 +4,7 @@ Boskop apples
 bananas
 yogurt
 milk
-bread
+toast bread
 cereal
 eggs
 bacon
