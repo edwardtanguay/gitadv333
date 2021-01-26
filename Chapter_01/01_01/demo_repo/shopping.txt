@@ -1,6 +1,6 @@
 Shopping List
 
-apples
+Boskop apples
 bananas
 yogurt
 milk
